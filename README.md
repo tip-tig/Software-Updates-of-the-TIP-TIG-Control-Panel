@@ -48,4 +48,22 @@ To get the latest version please head over the [releases page](https://github.co
 
 - Open the installed `TT-Software Updater` app.
 
-  
+  ![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_1.PNG)
+
+
+
+- Click on `Load Update File`.
+
+- Select the `TT-MDR_0.x.x.x.upd` file.
+
+  ![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_2.PNG)
+
+- Click on `Update Device`.
+
+- Wait till the update is finished
+
+xxx Bild einfügen
+
+- Click on `OK`.
+- Quit the ...
+- 
