@@ -15,6 +15,11 @@ For more information about our products and their applications, check out our we
 
 ## B. Requirements
 
+- Windows® 10
+- USB port
+
 ## C. How To Download Software Updates
+
+
 
 ## D. Software Installation
