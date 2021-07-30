@@ -48,7 +48,7 @@ To get the latest version, please head over to the [releases page](https://githu
 
 - Open the installed `TT-Software Updater` app.
 
-  ![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_1.PNG)
+  <img src="https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_1.PNG" width="480"/>
 
 
 
@@ -56,16 +56,25 @@ To get the latest version, please head over to the [releases page](https://githu
 
 - Select the `TT-MDR_0.x.x.x.upd` file.
 
+- 
+
   ![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_2.PNG)
 
 - Click on `Update Device`.
 
 - Wait till the update is finished
 
-![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_3.png)
+- 
+
+  ![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_3.png)
+
+  
 
 - Click on `OK`.
+
 - Quit the `TT-Software Updater` app.
+
 - Disconnect the Control Panel (USB)
+
 - Restart the Control Panel by switching it off and on.
 
