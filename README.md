@@ -68,7 +68,7 @@ To get the latest version, please head over to the [releases page](https://githu
 
   
 
-  <img src="https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_3.PNG" width="640"/>
+  <img src="https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_3.png" width="640"/>
 
   
 
