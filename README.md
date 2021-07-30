@@ -20,14 +20,14 @@ For more information about our products and their applications, check out our we
 
 ## C. How To Download Software Updates
 
-To get the latest version please head over the [releases page](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/releases) and download the file `TT-MDR.zip` of the latest release and the file `TIPTIG-Installer.zip`.
+To get the latest version, please head over to the [releases page](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/releases) and download the file `TT-MDR.zip` of the latest release and the file `TIPTIG-Installer.zip`.
 
 ## D. Software Update
 
 ### 1. TIP TIG Software Updater V1.0
 
 - Download the file `TIPTIG-Insatller.zip` from the [releases page](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/releases).
-- Unzip the file `TIPTIG-Installer.zip`  and you will get the file `TT-Installer.msi`.
+- Unzip the file `TIPTIG-Installer.zip`  ,and you will get the file `TT-Installer.msi`.
 - Install the `TT-Installer.msi`.
 
 
@@ -62,8 +62,10 @@ To get the latest version please head over the [releases page](https://github.co
 
 - Wait till the update is finished
 
-xxx Bild einfügen
+![](https://github.com/tip-tig/Software-Updates-of-the-TIP-TIG-Control-Panel/blob/main/assets/Update_3.png)
 
 - Click on `OK`.
-- Quit the ...
-- 
+- Quit the `TT-Software Updater` app.
+- Disconnect the Control Panel (USB)
+- Restart the Control Panel by switching it off and on.
+
