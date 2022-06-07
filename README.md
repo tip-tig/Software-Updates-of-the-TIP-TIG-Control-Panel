@@ -15,7 +15,7 @@ For more information about our products and their applications, check out our we
 
 ## B. Requirements
 
-- Windows® 10
+- Windows 10 or Windows 11
 - USB port
 
 ## C. How To Download Software Updates
