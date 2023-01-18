@@ -35,7 +35,7 @@ To get the latest version, please head to the [releases page](https://github.com
 ### 2. TT-MDR
 
 - Download the latest release of the file `TT-MDR.zip`.
-- Unzip the file `TT-MDR.zip`and you will get a file like `TT-MDR_0.2.6.2.upd`.
+- Unzip the file `TT-MDR.zip`and you will get a file like `TT-MDR_0.3.0.0.upd`.
 
 
 
